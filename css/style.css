@@ -1,9 +1,13 @@
+
 .container{
-margin: auto;
-width: 100%;
+	text-align: center;
+	border: 2px solid black;
 }
 
-.mobile{
+.col-xs-12{
+	margin: 0 auto;
+}
+/*.mobile{
 	margin: 3px 50px 3px;
 	background-color: #ffffff;
 	outline: 3px solid black;
@@ -34,13 +38,12 @@ width: 100%;
 
 .btn{
 	margin-left: 70px;
-	margin-bottom: 30px;
 	width: 150px;
 	font-family: Segoe UI;
 	color: white;
 	background-color: #999999;
 	box-shadow: 3px 3px grey;
 	cursor: pointer;
-}
+}*/
 
 
