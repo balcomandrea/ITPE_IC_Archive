@@ -3,7 +3,8 @@
 	}
 
 .col-xs-12{
-	margin: 0 auto;}
+	margin: 0 auto;
+}
 
 h2{
 	font-family: Segoe UI;
@@ -21,30 +22,29 @@ p.info{
 	border: 1px solid Black ;
 	padding: 5px;
 }
-
+/*
 #back{
 	float: left;
 	font-size: 30pt;
 	color: #7d7d7d;
-}
+}*/
 
-div.work{	
+.work{	
+	margin: 0 auto;
+	margin-bottom:20px;
 	padding: 10px;
-	padding-top: 50px;
-	margin-bottom: 20px;
-	height: 350px;
+	height: 300px;
 	width: 350px;
-	margin-top: 10px;
-	margin-left: 350px;
 	background-color: White;
-	overflow-y: auto;
-	overflow-x: auto;
-
 }
-img.set{
+
+.bruh{
+	margin: 0 auto;
+}
+/*img.set{
 	margin-top: -50px;
 	margin-left: 280px;
 	margin-bottom: 10px;
 	height: 40px;
 	width: 40px;
-}
+}*/
