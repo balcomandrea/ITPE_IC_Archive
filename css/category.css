@@ -1,0 +1,69 @@
+
+body{
+
+ background: no-repeat linear-gradient( to bottom, #FECCCD, #999999); /* For Safari 5.1 to 6.0 */
+
+}
+
+.hold{
+	
+	font-family: 'Roboto', sans-serif;
+	color: #808080;
+}
+
+.panelHold{
+
+	margin-left: 385px;
+	overflow:  auto;
+	height: 540px;
+	width: 375px; 
+	padding: 0px;
+}
+
+.boxContainer{
+
+	height:199px;
+	width: 340px;
+	background-color: #EFEFEF;
+	padding: 20px;
+	margin-bottom: 15px;
+
+}
+
+.title{
+	font-family: 'Roboto', sans-serif;
+	float: left;
+	font-style: bold;
+	font-size: 23px; 
+}
+
+.author{
+	font-family: 'Roboto', sans-serif;
+	float: left;
+	margin-left: -130px;
+	margin-top: 45px;
+	font-style: bold;
+	font-size: 15px; 
+}
+
+.desc{
+	float: left;
+	margin-left: -130px;
+	margin-top: 75px;
+	font-size: 15px;
+}
+
+.descHolder{
+	//border-color: gray;
+	//border-style: solid;
+	overflow: hidden;
+	width: 289px;	
+	max-height: 50px;
+	float: left;
+	text-align: left;
+	margin-left: -130px;
+	margin-top: 100px;
+	font-size: 13px; 
+
+}
+
