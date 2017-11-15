@@ -1,14 +1,11 @@
 
 #grad1 {
-    height: 650px;
-    background: linear-gradient(to bottom, #ffcce6 , #909090); /* Standard syntax (must be last) */
+    background: linear-gradient(to bottom, #FECCCD, #999999); /* Standard syntax (must be last) */
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
-#name{
-	font-size: 20px;
-	margin-top: 5pt;
-	padding-bottom: 20px;
-}
 .container{
 	text-align: center;	
 
@@ -17,6 +14,14 @@
 .col-xs-12{
 	margin: 0 auto;
 }
+
+#name{
+	font-size: 20px;
+	margin-top: 5pt;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
 
 input.search{
 	margin-top: 10px;
@@ -34,6 +39,7 @@ img.search{
 
 #welcome{
 	margin-top: 50px;
+	margin-bottom: 50px;
 	font-family: Arial;
 	font-size: 43pt;
 	letter-spacing: 3pt;
@@ -48,7 +54,7 @@ img.img-upload{
 	height: 100px;
 	width: 100px;
 }
-button.submit{
+input.submit{
 	margin-bottom: 10px;
 	border-radius: 5px;
 	background-color: #888888;
@@ -57,15 +63,18 @@ button.submit{
 	height: 50px;
 	width: 180px;
 }
-button.submit:hover{
+input.submit:hover{
 	background-color:  #ffcce6;
 }
 
-a{
+input.log-out{
+	background-color: transparent;
+	border-style: none;
+	margin-bottom: 60px;
 	color: White;
-	font-size: 14pt;
+	height: 50px;
+	width: 180px;
 }
-a:hover{
+input.log-out:hover{
 	color: #888888;
-	text-decoration: none;
 }

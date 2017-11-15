@@ -1,0 +1,50 @@
+.container{
+	text-align: center;
+	}
+
+.col-xs-12{
+	margin: 0 auto;}
+
+h2{
+	font-family: Segoe UI;
+}
+
+
+#grad1 {
+    background: linear-gradient(to bottom, #FECCCD, #999999); /* Standard syntax (must be last) */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p.info{
+	font-size: 14pt;
+	border: 1px solid Black ;
+	padding: 5px;
+}
+
+#back{
+	float: left;
+	font-size: 30pt;
+	color: #7d7d7d;
+}
+
+div.work{	
+	padding: 10px;
+	padding-top: 50px;
+	margin-bottom: 20px;
+	height: 350px;
+	width: 350px;
+	margin-top: 10px;
+	margin-left: 350px;
+	background-color: White;
+	overflow-y: auto;
+	overflow-x: auto;
+
+}
+img.set{
+	margin-top: -50px;
+	margin-left: 280px;
+	margin-bottom: 10px;
+	height: 40px;
+	width: 40px;
+}
