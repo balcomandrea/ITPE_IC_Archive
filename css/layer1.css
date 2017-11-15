@@ -1,0 +1,71 @@
+
+#grad1 {
+    height: 650px;
+    background: linear-gradient(to bottom, #ffcce6 , #909090); /* Standard syntax (must be last) */
+}
+
+#name{
+	font-size: 20px;
+	margin-top: 5pt;
+	padding-bottom: 20px;
+}
+.container{
+	text-align: center;	
+
+}
+
+.col-xs-12{
+	margin: 0 auto;
+}
+
+input.search{
+	margin-top: 10px;
+	height: 45px;
+	width: 200px;
+	border-radius: 20px;
+	border-style: none;
+	padding-left: 45px;
+}
+img.search{
+	margin-left: -200px;
+	height: 30px;
+	width: 30px;
+}
+
+#welcome{
+	margin-top: 50px;
+	font-family: Arial;
+	font-size: 43pt;
+	letter-spacing: 3pt;
+	color: #888888;
+}
+
+img.img-upload{
+	margin-top: -10px;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: White;
+	height: 100px;
+	width: 100px;
+}
+button.submit{
+	margin-bottom: 10px;
+	border-radius: 5px;
+	background-color: #888888;
+	color: White;
+	border-style: none;
+	height: 50px;
+	width: 180px;
+}
+button.submit:hover{
+	background-color:  #ffcce6;
+}
+
+a{
+	color: White;
+	font-size: 14pt;
+}
+a:hover{
+	color: #888888;
+	text-decoration: none;
+}
