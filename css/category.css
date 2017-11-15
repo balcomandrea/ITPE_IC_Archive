@@ -2,7 +2,7 @@
 body{
 
  background: no-repeat linear-gradient( to bottom, #FECCCD, #999999); /* For Safari 5.1 to 6.0 */
-
+ 
 }
 
 .hold{
@@ -12,11 +12,9 @@ body{
 }
 
 .panelHold{
-
-	margin-left: 385px;
-	overflow:  auto;
+	margin: 0 auto;
 	height: 540px;
-	width: 375px; 
+	width: 360px; 
 	padding: 0px;
 }
 
