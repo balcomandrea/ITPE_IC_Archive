@@ -14,14 +14,14 @@ body{
 .panelHold{
 	margin: 0 auto;
 	height: 540px;
-	width: 360px; 
+	width: 365px; 
 	padding: 0px;
 }
 
 .boxContainer{
 
 	height:199px;
-	width: 280px;
+	width: 305px;
 	background-color: #EFEFEF;
 	padding: 15px;
 	margin-left: 0px;
@@ -58,7 +58,7 @@ body{
 	//border-color: gray;
 	//border-style: solid;
 	overflow: hidden;
-	width: 250px;	
+	width: 275px;	
 	max-height: 65px;
 	float: left;
 	text-align: left;
