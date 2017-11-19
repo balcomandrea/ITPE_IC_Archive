@@ -12,11 +12,11 @@ body{
 }
 
 .panelHold{
-	border-style: solid;
-	border-color: gray;
+	//border-style: solid;
+	//border-color: gray;
 	margin: 0 auto;
 	height: 540px;
-	width: 330px; 
+	max-width: 330px; 
 	padding: 10px;
 }
 
