@@ -2,7 +2,7 @@
 body{
 
  background: no-repeat linear-gradient( to bottom, #FECCCD, #999999); /* For Safari 5.1 to 6.0 */
- 
+     height: 100vh;
 }
 
 .hold{
@@ -60,7 +60,7 @@ body{
 	//border-color: gray;
 	//border-style: solid;
 	overflow: hidden;
-	width: 280px;	
+	width: 270px;	
 	max-height: 65px;
 	float: left;
 	text-align: left;
