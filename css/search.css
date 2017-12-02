@@ -12,6 +12,14 @@ body{
 	font-size: 20px;
 	color: #808080;
 }
+.panelHold{
+	/*border-style: solid;
+	border-color: gray;*/
+	margin: 0 auto;
+	height: 540px;
+	max-width: 350px; 
+	padding: 10px;
+}
 
 
 .Allbtn{
