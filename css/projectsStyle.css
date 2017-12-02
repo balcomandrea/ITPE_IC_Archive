@@ -17,6 +17,7 @@ body{
 
 }
 
+
 .publisher{
 
 	font-family: 'Roboto black thin', sans-serif;
@@ -26,6 +27,16 @@ body{
 	overflow-y: auto; 
 	font-size: 15px;
 
+}
+
+.abstract{
+
+	font-family: 'Roboto black thin', sans-serif;
+	color: #808080;
+	text-align: left;
+	overflow-x: hidden;
+	overflow-y:;
+	font-size: 15px;
 }
 
 .panelHold{
