@@ -16,7 +16,7 @@ body{
 	//border-color: gray;*/
 	margin: 0 auto;
 	overflow-y: scroll;
-	max-height: 540px;
+	height: 540px;
 	max-width: 350px; 
 	padding: 10px;
 }
@@ -61,8 +61,8 @@ body{
 	//border-color: gray;
 	//border-style: solid;
 	overflow: hidden;
-	width: 270px;	
-	max-height: 65px;
+	max-width: 270px;	
+	height: 65px;
 	float: left;
 	text-align: left;
 	margin-left: -130px;
