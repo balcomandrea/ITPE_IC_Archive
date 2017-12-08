@@ -11,6 +11,7 @@ body{
 	color: #808080;
 }
 
+
 .panelHold{
 	/*//border-style: solid;
 	//border-color: gray;*/
@@ -22,7 +23,7 @@ body{
 }
 
 .boxContainer{
-
+	justify-content: center;
 	height:199px;
 	width: 310px;
 	background-color: #EFEFEF;
@@ -43,11 +44,11 @@ body{
 
 .author{
 	font-family: 'Roboto', sans-serif;
-	float: left;
-	margin-left: -130px;
-	margin-top: 45px;
+	/*float: left;*/
+	/*margin-left: -130px;
+	margin-top: 45px;*/
 	font-style: bold;
-	font-size: 15px; 
+	font-size: 13px; 
 }
 
 .desc{
@@ -81,4 +82,14 @@ body{
    background-color: transparent !important;
    text-align: center;
    padding-top: 60px;
+}
+
+span.author{
+		font-size: 8pt;
+		text-align: center;
+
+}
+
+b{	letter-spacing: 0.1pt;
+	font-size: 11pt;
 }
